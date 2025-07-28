@@ -1,0 +1,20 @@
+.app {
+  width: 100%;
+  min-height: 100vh;
+}
+
+.lesson-not-found {
+  text-align: center;
+  padding: 60px 20px;
+  color: #666;
+}
+
+.lesson-not-found h2 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.lesson-not-found p {
+  font-size: 1.1rem;
+}
